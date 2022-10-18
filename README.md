@@ -5,8 +5,7 @@
     <br>I'm Semi-Pro Editor and Learning Frontend.<br>
 
 </samp>
-
+<br>
   <img src="https://i.imgur.com/pCpOtnL.png" width="200"/>
-  <br><img src="" /><br>
-
+<br>
 </p>
