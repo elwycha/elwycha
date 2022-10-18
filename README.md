@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @elwycha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <br>
+  <samp>
+    Hi. I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://wycha.com/">wycha</a></b>.
+    <br>I'm Learning Frotend and Semi-Pro Editor.<br>
 
-<!---
-elwycha/elwycha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</samp>
+
+  <img src="" width="200"/>
+  <br><img src="" /><br>
+
+</p>
