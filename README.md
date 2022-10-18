@@ -6,6 +6,6 @@
 
 </samp>
 <br>
-  <img src="https://i.imgur.com/pCpOtnL.png" width="200"/>
+  <img src="https://i.imgur.com/Z76PAzT.png" width="200"/>
 <br>
 </p>
